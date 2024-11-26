@@ -1,0 +1,15 @@
+/*
+Realizati un program in C in care se citesc de la tastatura doua multimi A si B de n elemente numere intregi,
+ultimul element al multimii este dat automat fiind egal cu numarul de elemente impare pana atunci in fiecare multime.
+Elementele multimilor sunt considerate citite corect daca sunt cuprinse in intervalul [0, 1000].
+Realizati un meniu interactiv cu urmatoarele optiuni :
+1.Afisarea elementelor multimilor.
+2.Afisarea elementelor multimilor in ordine crescatoare folosind qsort.
+3.Sa se copieze toate elementele pare a celor 2 multimi intr-o noua multime, apoi sa se afiseze noua multime in ordine descrescatoare folosind bubble sort.
+4.Sa se reprezinte in binar elementele celor 2 multimi.
+0.Iesire.
+OBS
+*)Pentru fiecare functionalitate se va creea o functie.
+*)Se va lucra cu alocarea dinamica de memorie.
+*)Se va implementa cel putin o instructiune macro light function.
+*/
